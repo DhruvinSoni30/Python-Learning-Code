@@ -1,3 +1,5 @@
-weather = "It\'s \"Kind of\" Sunny"
+weather = "\t It\'s \"Kind of\" Sunny"
+day = "\n Sunday"
 
 print(weather)
+print(day)
